@@ -2,21 +2,6 @@
 
 This template repository is the starter project for Programming 2 Project. Written in Java, and tested with Gradle/JUnit.
 
-![Alt text](./img/1.png)
-![Alt text](./img/2.png)
-![Alt text](./img/3.png)
-![Alt text](./img/4.png)
-![Alt text](./img/5.png)
-![Alt text](./img/6.png)
-![Alt text](./img/7.png)
-![Alt text](./img/8.png)
-![Alt text](./img/9.png)
-![Alt text](./img/10.png)
-![Alt text](./img/11.png)
-
-
-
-
 ### Project Description
 
 **Instructions**
